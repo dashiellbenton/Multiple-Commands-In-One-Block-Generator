@@ -1,1 +1,1 @@
-The attached program will help you to generate "One Command Creations". To use it, correctly enter the details requested and copy the command given.
+The following program will help you to generate "One Command Creations". To use it, correctly enter the details requested and copy the command given. To use the given command, open Minecraft, place down a command block, paste the command that you copied into the command block, and set the command block to "Always Active". After the command block stack has generated, you may break the original command block.
